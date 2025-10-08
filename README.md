@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0735-asteroid-collision) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
