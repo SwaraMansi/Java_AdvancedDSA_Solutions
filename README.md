@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
