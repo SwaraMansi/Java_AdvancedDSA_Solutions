@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0943-sum-of-subarray-minimums](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
