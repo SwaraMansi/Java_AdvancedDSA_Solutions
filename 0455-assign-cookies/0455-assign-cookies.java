@@ -8,11 +8,9 @@ class Solution {
             if (s[j] >= g[i]) {
                 count++;
                 i++;
-                j++;
-            } else {
+            } 
                 j++;
             }
-        }
         return count;
     }
 }
