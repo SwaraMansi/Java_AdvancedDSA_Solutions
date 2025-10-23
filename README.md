@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
