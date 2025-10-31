@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0239-sliding-window-maximum) |
@@ -198,5 +199,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
