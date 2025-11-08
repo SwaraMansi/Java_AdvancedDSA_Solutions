@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Stack
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
