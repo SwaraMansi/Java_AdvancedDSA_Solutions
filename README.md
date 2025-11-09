@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
