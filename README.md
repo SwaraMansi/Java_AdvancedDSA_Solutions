@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
