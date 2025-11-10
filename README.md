@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 ## Sorting
