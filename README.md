@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
