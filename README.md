@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -164,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
