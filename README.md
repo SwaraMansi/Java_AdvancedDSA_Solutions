@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
