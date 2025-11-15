@@ -32,17 +32,17 @@ class Solution {
             if (root.right == null) {
                 return root.left;
             }
-            TreeNode successor = findMin(root.right);
+            TreeNode successor = findMax(root.left);
             root.val = successor.val;
-            root.right = deleteNode(root.right, successor.val);
+            root.left = deleteNode(root.left, successor.val);
         }
 
         return root;
     }
 
-    private TreeNode findMin(TreeNode node) {
-        while (node.left != null) {
-            node = node.left;
+    private TreeNode findMax(TreeNode node) {
+        while (node.right != null) {
+            node = node.right;
         }
         return node;
     }
