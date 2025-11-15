@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
