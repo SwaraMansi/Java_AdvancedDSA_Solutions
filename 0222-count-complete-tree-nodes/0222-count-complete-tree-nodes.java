@@ -7,9 +7,18 @@ class TreeNode {
 
 class Solution {
     public int countNodes(TreeNode root) {
-        if (root == null) return 0;
+             List<Integer> arr = new ArrayList<>();
+        postorder(root, arr);
+        return arr.size();
+    }
 
-        return 1 + countNodes(root.left) + countNodes(root.right);
-    
+    private void postorder(TreeNode root, List<Integer> arr) {
+        if (root == null) {
+            return; 
+        }
+        postorder(root.left, arr);
+        arr.add(root.val);
+        postorder(root.right, arr);
+       
     }
 }
