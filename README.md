@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Queue
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Memoization
 |  |
