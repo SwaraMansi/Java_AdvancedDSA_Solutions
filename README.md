@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 |  |
 | ------- |
