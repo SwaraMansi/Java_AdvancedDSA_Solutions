@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0076-minimum-window-substring) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
