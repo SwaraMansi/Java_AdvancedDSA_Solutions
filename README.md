@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
