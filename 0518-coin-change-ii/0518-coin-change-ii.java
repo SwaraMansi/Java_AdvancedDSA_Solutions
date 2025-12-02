@@ -1,6 +1,7 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int n = coins.length;
+
         int[][] dp = new int[n][amount + 1];
 
         for (int t = 0; t <= amount; t++) {
@@ -12,12 +13,13 @@ class Solution {
             for (int t = 0; t <= amount; t++) {
 
                 int notTake = dp[i - 1][t];
+
                 int take = 0;
-
-                if (coins[i] <= t)
+                if (coins[i] <= t) {
                     take = dp[i][t - coins[i]]; 
+                }
 
-                dp[i][t] = notTake + take;
+                dp[i][t] = take+notTake;
             }
         }
 
