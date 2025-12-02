@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-two-city-scheduling](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1095-two-city-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Simulation
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Queue
 |  |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1095-two-city-scheduling](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1095-two-city-scheduling) |
 ## Counting
 |  |
