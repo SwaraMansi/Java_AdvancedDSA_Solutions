@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
