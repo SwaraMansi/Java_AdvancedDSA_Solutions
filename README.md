@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
