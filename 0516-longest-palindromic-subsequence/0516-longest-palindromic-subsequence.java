@@ -1,29 +1,24 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
-        String rev = new StringBuilder(s).reverse().toString();
+      String rev = new StringBuilder(s).reverse().toString();
         int n = s.length();
 
-        int[][] dp = new int[n][n];
-        for (int[] row : dp) Arrays.fill(row, -1);
+        int[] prev = new int[n + 1];
+        int[] curr = new int[n + 1];
 
-        return solve(n - 1, n - 1, s, rev, dp);
-    }
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
 
-    private int solve(int i, int j, String s, String rev, int[][] dp) {
-
-        if (i < 0 || j < 0) return 0;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        if (s.charAt(i) == rev.charAt(j)) {
-            dp[i][j] = 1 + solve(i - 1, j - 1, s, rev, dp);
-        } else {
-            dp[i][j] = Math.max(
-                solve(i - 1, j, s, rev, dp),
-                solve(i, j - 1, s, rev, dp)
-            );
+                if (s.charAt(i - 1) == rev.charAt(j - 1)) {
+                    curr[j] = 1 + prev[j - 1];
+                } else {
+                    curr[j] = Math.max(prev[j], curr[j - 1]);
+                }
+            }
+            prev = curr;
+            curr = new int[n + 1];
         }
 
-        return dp[i][j]; 
+        return prev[n];
     }
 }
