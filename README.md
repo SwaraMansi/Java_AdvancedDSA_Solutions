@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Simulation
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
