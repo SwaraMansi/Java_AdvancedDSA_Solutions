@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0063-unique-paths-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
