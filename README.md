@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0039-combination-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
