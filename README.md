@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0064-minimum-path-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0073-set-matrix-zeroes) |
