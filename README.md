@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
