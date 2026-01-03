@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int minLength(int[] nums, int k) {
         int[] res = nums;
