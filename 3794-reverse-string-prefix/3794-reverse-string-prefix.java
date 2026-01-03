@@ -1,15 +1,13 @@
 class Solution {
     public String reversePrefix(String s, int k) {
-        StringBuilder sb= new StringBuilder();
-        for (char ch : s.toCharArray()) {
-            sb.append(ch);
+        StringBuilder sb = new StringBuilder();
+        for (int i = k - 1; i >= 0; i--) {
+            sb.append(s.charAt(i));
         }
-        sb.delete(0,k);
-        char[] c=s.toCharArray();
-        for(int i=0;i<k;i++){
-            char ch=s.charAt(i); 
-          sb.insert(0, ch);
+        for (int i = k; i < s.length(); i++) {
+            sb.append(s.charAt(i));
         }
+
         return sb.toString();
     }
 }
