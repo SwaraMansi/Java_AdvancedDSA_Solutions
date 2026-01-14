@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0120-triangle) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
