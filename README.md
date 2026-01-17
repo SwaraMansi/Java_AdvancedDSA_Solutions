@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0287-find-the-duplicate-number) |
