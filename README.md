@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Prefix Sum
 |  |
