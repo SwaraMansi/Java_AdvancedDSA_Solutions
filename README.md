@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0890-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
