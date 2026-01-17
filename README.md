@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-two-city-scheduling](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1095-two-city-scheduling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Prefix Sum
 |  |
