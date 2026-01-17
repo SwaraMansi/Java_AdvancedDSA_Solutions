@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0287-find-the-duplicate-number) |
