@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0062-unique-paths) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Union Find
