@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1903-largest-odd-number-in-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0890-lemonade-change) |
 | [1095-two-city-scheduling](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1095-two-city-scheduling) |
+| [1903-largest-odd-number-in-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1903-largest-odd-number-in-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 |  |
