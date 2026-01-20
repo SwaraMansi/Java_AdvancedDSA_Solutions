@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
