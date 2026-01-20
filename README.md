@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -563,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
