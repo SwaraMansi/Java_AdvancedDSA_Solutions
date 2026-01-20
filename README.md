@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
