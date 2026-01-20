@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -556,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
