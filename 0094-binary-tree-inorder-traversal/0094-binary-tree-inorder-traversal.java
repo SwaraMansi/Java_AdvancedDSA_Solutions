@@ -11,30 +11,20 @@
  *         this.left = left;
  *         this.right = right;
  *     }
+ * }
  */
 class Solution {
+     List<Integer> result = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-       List<Integer> res= new ArrayList<>();
-       TreeNode curr= root;
-       while(curr!=null){
-        if(curr.left==null){
-             res.add(curr.val);
-             curr=curr.right;
-        }else{
-        TreeNode pred= curr.left;
-        while(pred.right!=null && pred.right!=curr){
-            pred= pred.right;
-        }
-        if(pred.right==null){
-           pred.right=curr;
-           curr=curr.left;
-        }
-        else{
-            pred.right=null;
-           res.add(curr.val);
-           curr=curr.right;
-        }
-       }}
-       return res;
+     inorder(root);
+        return result;
+    }
+
+    void inorder(TreeNode node) {
+        if (node == null) return;
+
+        inorder(node.left);     
+        result.add(node.val);    
+        inorder(node.right);     
     }
 }
