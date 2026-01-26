@@ -13,27 +13,54 @@
  *     }
  * }
  */
-class Solution {
-    public boolean findTarget(TreeNode root, int k) {
-        List<Integer> inorderList = new ArrayList<>();
-        inorder(root, inorderList);
+class BSTIterator {
+    Stack<TreeNode> stack = new Stack<>();
+    boolean reverse;   // false = inorder, true = reverse inorder
 
-        int left = 0, right = inorderList.size() - 1;
-
-        while (left < right) {
-            int sum = inorderList.get(left) + inorderList.get(right);
-            if (sum == k) return true;
-            else if (sum < k) left++;
-            else right--;
-        }
-
-        return false;
+    public BSTIterator(TreeNode root, boolean reverse) {
+        this.reverse = reverse;
+        pushAll(root);
     }
 
-    private void inorder(TreeNode root, List<Integer> list) {
-        if (root == null) return;
-        inorder(root.left, list);
-        list.add(root.val);
-        inorder(root.right, list);
+    private void pushAll(TreeNode node) {
+        while (node != null) {
+            stack.push(node);
+            node = reverse ? node.right : node.left;
+        }
+    }
+
+    public int next() {
+        TreeNode node = stack.pop();
+        if (reverse)
+            pushAll(node.left);
+        else
+            pushAll(node.right);
+        return node.val;
+    }
+
+    public boolean hasNext() {
+        return !stack.isEmpty();
     }
 }
+class Solution {
+    public boolean findTarget(TreeNode root, int k) {
+      if (root == null) return false;
+
+        BSTIterator left = new BSTIterator(root, false);  // smallest
+        BSTIterator right = new BSTIterator(root, true); // largest
+
+        int i = left.next();
+        int j = right.next();
+
+        while (i < j) {
+            int sum = i + j;
+
+            if (sum == k) return true;
+            else if (sum < k)
+                i = left.next();   // move left pointer forward
+            else
+                j = right.next();  // move right pointer backward
+        }
+        return false;
+    }  
+    }
