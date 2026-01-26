@@ -35,6 +35,7 @@ class BSTIterator {
     public boolean hasNext() {
          return !stack.isEmpty();
     }
+    
 }
 
 /**
