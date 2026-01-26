@@ -14,26 +14,26 @@
  * }
  */
 class BSTIterator {
-  private Stack<TreeNode> stack= new Stack<>();
+    Stack<TreeNode> stack = new Stack<>();
     public BSTIterator(TreeNode root) {
-      pushLeft(root);  
+          pushLeft(root);
     }
-     private void pushLeft(TreeNode node) {
+    // Push all left nodes
+    private void pushLeft(TreeNode node) {
         while (node != null) {
             stack.push(node);
             node = node.left;
         }
     }
+    
     public int next() {
-        TreeNode root=stack.pop();
-        if(root.right!=null){
-            pushLeft(root.right);
-        }
-        return root.val;
+       TreeNode node = stack.pop();       // smallest available
+        pushLeft(node.right);             // process its right subtree
+        return node.val;
     }
     
     public boolean hasNext() {
-        return !stack.isEmpty();
+         return !stack.isEmpty();
     }
 }
 
