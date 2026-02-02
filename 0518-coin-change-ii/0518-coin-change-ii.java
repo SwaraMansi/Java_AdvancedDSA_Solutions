@@ -1,28 +1,24 @@
 class Solution {
-    public int change(int amount, int[] coins) {
-        int n = coins.length;
+    public int change(int target, int[] arr) {
+          int n = arr.length;
+        int[][] dp = new int[n + 1][target + 1];
 
-        int[][] dp = new int[n][amount + 1];
+        // Base case
+        dp[0][0] = 1;
 
-        for (int t = 0; t <= amount; t++) {
-            if (t % coins[0] == 0)
-                dp[0][t] = 1;
-        }
+        for (int i = 1; i <= n; i++) {
+            for (int t = 0; t <= target; t++) {
 
-        for (int i = 1; i < n; i++) {
-            for (int t = 0; t <= amount; t++) {
+                // Not take
+                dp[i][t] = dp[i - 1][t];
 
-                int notTake = dp[i - 1][t];
-
-                int take = 0;
-                if (coins[i] <= t) {
-                    take = dp[i][t - coins[i]]; 
+                // Take (if possible)
+                if (arr[i - 1] <= t) {
+                    dp[i][t] = (dp[i][t] + dp[i][t - arr[i - 1]]);
                 }
-
-                dp[i][t] = take+notTake;
             }
         }
 
-        return dp[n - 1][amount];
+        return dp[n][target];
     }
 }
