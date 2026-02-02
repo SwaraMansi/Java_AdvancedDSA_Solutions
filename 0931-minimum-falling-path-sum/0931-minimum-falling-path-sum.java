@@ -1,32 +1,30 @@
 class Solution {
-    int rows, cols;
-    Integer[][] dp;
+    public int minFallingPathSum(int[][] matrix) {
+              int n = matrix.length;
+        int[][] dp = new int[n][n];
 
-    public int minFallingPathSum(int[][] grid) {
-        rows = grid.length;
-        cols = grid[0].length;
-        dp = new Integer[rows][cols];
-
-        int ans = Integer.MAX_VALUE;
-        for (int c = 0; c < cols; c++) {
-            ans = Math.min(ans, dfs(grid, 0, c));
+        // Base case: first row
+        for (int j = 0; j < n; j++) {
+            dp[0][j] = matrix[0][j];
         }
 
+        // Build DP
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+
+                int up = dp[i-1][j];
+                int leftDiag = (j > 0) ? dp[i-1][j-1] : Integer.MAX_VALUE;
+                int rightDiag = (j < n-1) ? dp[i-1][j+1] : Integer.MAX_VALUE;
+
+                dp[i][j] = matrix[i][j] + Math.min(up, Math.min(leftDiag, rightDiag));
+            }
+        }
+
+        // Answer = minimum in last row
+        int ans = Integer.MAX_VALUE;
+        for (int j = 0; j < n; j++) {
+            ans = Math.min(ans, dp[n-1][j]);
+        }
         return ans;
     }
-
-    public int dfs(int[][] grid, int r, int c) {
-
-        if (c < 0 || c >= cols) return Integer.MAX_VALUE; 
-        if (r == rows - 1) return grid[r][c]; 
-
-        if (dp[r][c] != null) return dp[r][c];
-
-        int down = dfs(grid, r + 1, c);
-        int left = dfs(grid, r + 1, c - 1);
-        int right = dfs(grid, r + 1, c + 1);
-
-        return dp[r][c] = grid[r][c] + Math.min(down, Math.min(left, right));
-    }
 }
-
