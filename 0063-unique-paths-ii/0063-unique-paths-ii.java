@@ -1,35 +1,29 @@
 class Solution {
-    int result = 0;
-    int rows, cols;
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+        int m=obstacleGrid.length;
+        int n= obstacleGrid[0].length;
+        int[][] dp = new int[m][n];
+        for (int[] row : dp)
+            Arrays.fill(row, -1);
 
-    public int uniquePathsWithObstacles(int[][] grid) {
-        rows = grid.length;
-        cols = grid[0].length;
-      int[][] dp= new int[rows+1][cols+1];
-       for(int i=0;i<rows+1;i++){
-            for(int j=0;j<cols+1;j++){
-                dp[i][j]=-1;
-            }
-        }
-        return dfs(grid, 0, 0,dp);
-        }
+        return solve(0, 0, m,n,dp, obstacleGrid);
+    }
 
-    public int dfs(int[][] grid, int r, int c,int[][] dp) {
+    private int solve(int i, int j,int m,int n, int[][] dp, int[][] obstacleGrid) {
+        // Out of bounds
+        if (i >= m || j >= n)
+            return 0;
+
+        if (obstacleGrid[i][j] == 1) return 0;
+  if (i == m - 1 && j == n - 1)
+            return 1;
+
+        if (dp[i][j] != -1)
+            return dp[i][j];
       
-        if (r < 0 || c < 0 || r >= rows || c >= cols || grid[r][c] == 1) {
-            dp[r][c]=0;
-            return 0;
-        }
-        if (grid[0][0] == 1 || grid[rows - 1][cols - 1] == 1) {
-            dp[r][c]=0;
-            return 0;
-        }
-        if(r==rows-1 && c==cols-1) {
-            dp[r][c]=1;
-            return 1; 
-        }
-         if(dp[r][c] != -1) return dp[r][c];
-        int ways=dfs(grid, r + 1, c,dp) +dfs(grid, r, c + 1,dp);
-        return dp[r][c]= ways;
+      int  right = solve(i, j + 1,m,n, dp, obstacleGrid);
+       int down  = solve(i + 1, j,m,n, dp, obstacleGrid);
+
+        return dp[i][j] = right + down;   
     }
 }
