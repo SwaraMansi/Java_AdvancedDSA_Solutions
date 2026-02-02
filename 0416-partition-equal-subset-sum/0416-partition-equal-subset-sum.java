@@ -1,34 +1,33 @@
 class Solution {
-    public boolean canPartition(int[] arr) {
-           int n = arr.length;
-        int totalSum = 0;
-        for (int num : arr) totalSum += num;
-
-        if (totalSum % 2 != 0)
-            return false;
-
-        int target = totalSum / 2;
-        boolean[] prev = new boolean[target + 1];
-        prev[0] = true; 
-        if (arr[0] <= target)
-            prev[arr[0]] = true;
-
-        for (int i = 1; i < n; i++) {
-            boolean[] cur = new boolean[target + 1];
-            cur[0] = true; 
-
-            for (int sum = 1; sum <= target; sum++) {
-                boolean notTaken = prev[sum];
-
-                boolean taken = false;
-                if (arr[i] <= sum)
-                    taken = prev[sum - arr[i]];
-
-                cur[sum] = notTaken || taken;
-            }
-
-            prev = cur;
+    public boolean canPartition(int[] nums) {
+         int sum=0;
+         for(int x:nums){
+            sum+=x;
+         }
+         int target=sum/2;
+         if(sum%2!= 0) return false;
+         else 
+       //  boolean[][] dp= new boolean[nums.length+1][target+1];
+         //for(int[] rows:dp){
+           // Arrays.fill(row,-1);
+         //} 
+         return solve(nums.length,target,nums);
+    }
+    public boolean solve(int n, int target, int[] arr) {
+      boolean[][] dp= new boolean[n+1][target+1];
+      for(int i=0;i<=n;i++){
+        dp[i][0]= true;
+      }
+      for(int i=1;i<=n;i++){
+        for(int t=1;t<=target;t++){
+           if (arr[i - 1] <= t) {
+            dp[i][t]= dp[i-1][t] || dp[i-1][t-arr[i-1]];
+           }
+            else {
+                    dp[i][t] = dp[i - 1][t];
+                }
         }
-        return prev[target];
+      }
+      return dp[n][target];
     }
 }
