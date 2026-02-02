@@ -1,28 +1,27 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int[][] dp = new int[m+1][n+1];
-        for(int i=0;i<m+1;i++){
-            for(int j=0;j<n+1;j++){
-                dp[i][j]=-1;
-            }
-        }
-        return solve(m,n,dp);
+    
+        int[][] dp = new int[m][n];
+        for (int[] row : dp)
+            Arrays.fill(row, -1);
+
+        return solve(0, 0, m,n,dp);
     }
-    public int solve(int m,int n,int[][] dp){
-        if(m==0 || n==0) {
-            dp[m][n] =0;
+
+    private int solve(int i, int j,int m,int n, int[][] dp) {
+        // Reached destination
+        if (i == m - 1 && j == n - 1)
+            return 1;
+
+        // Out of bounds
+        if (i >= m || j >= n)
             return 0;
-        }
-        if(m==1 && n==1) {
-            dp[m][n]=1;
-            return 1; 
-        }
-        if(dp[m][n] != -1) return dp[m][n];
-       
-            int left= solve(m,n-1,dp);
-            int right= solve(m-1,n,dp);
-         int ways= left+right;
-         dp[m][n]= ways;
-         return ways;
-    }
-}
+
+        if (dp[i][j] != -1)
+            return dp[i][j];
+
+        int right = solve(i, j + 1,m,n, dp);
+        int down  = solve(i + 1, j,m,n, dp);
+
+        return dp[i][j] = right + down;
+}}
