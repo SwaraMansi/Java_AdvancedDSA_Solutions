@@ -1,28 +1,27 @@
 class Solution {
-      int rows, cols;
     public int minPathSum(int[][] grid) {
-    rows = grid.length;
-    cols = grid[0].length;
-      int[][] dp= new int[rows+1][cols+1];
-       for(int i=0;i<rows+1;i++){
-            for(int j=0;j<cols+1;j++){
-                dp[i][j]=-1;
-            }
-        }
-        return dfs(grid, 0, 0,dp);
-        }
+             int m=grid.length;
+        int n= grid[0].length;
+        int[][] dp = new int[m][n];
+        for (int[] row : dp)
+            Arrays.fill(row, -1);
 
-    public int dfs(int[][] grid, int r, int c,int[][] dp) {
+        return solve(0, 0, m,n,dp,grid);
+    }
 
-        if (r >= rows || c >= cols) return Integer.MAX_VALUE;
-        if(r==rows-1 && c==cols-1) {
-            return grid[r][c]; 
-        }
-        
-        if(dp[r][c] != -1) return dp[r][c];
-        int down=  dfs(grid,r+1,c,dp);
-        int right=dfs(grid,r,c+1,dp);
+    private int solve(int i, int j,int m,int n, int[][] dp, int[][] obstacleGrid) {
+        // Out of bounds
+        if (i >= m || j >= n)
+            return Integer.MAX_VALUE;;
+     if (i == m - 1 && j == n - 1)
+            return obstacleGrid[i][j];
 
-        return dp[r][c] =grid[r][c] + Math.min(down,right);
+        if (dp[i][j] != -1)
+            return dp[i][j];
+      
+      int  right =  solve(i, j + 1,m,n, dp, obstacleGrid);
+       int down  = solve(i + 1, j,m,n, dp, obstacleGrid);
+
+        return dp[i][j] = obstacleGrid[i][j] +Math.min(right , down);
     }
 }
