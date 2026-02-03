@@ -1,27 +1,20 @@
 class Solution {
-    public int minDistance(String word1, String word2) {
-        int m = word1.length();
-        int n = word2.length();
-
-        int[][] dp = new int[m][n];
-        for (int[] row : dp) Arrays.fill(row, -1);
-
-        int lcs = LCS(m-1, n-1, word1, word2, dp);
-        return m + n - 2 * lcs;  
-    }
-
-    private int LCS(int i, int j, String a, String b, int[][] dp) {
-        if (i < 0 || j < 0) return 0;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        if (a.charAt(i) == b.charAt(j)) {
-            return dp[i][j] = 1 + LCS(i - 1, j - 1, a, b, dp);
-        } else {
-            return dp[i][j] = Math.max(
-                LCS(i - 1, j, a, b, dp),
-                LCS(i, j - 1, a, b, dp)
-            );
-        }
+    public int minDistance(String text1, String text2) {
+        int n= text1.length();
+       int m= text2.length();
+     int[][] dp = new int[n + 1][m + 1];       
+       for(int i=1;i<=n;i++){
+       for(int j=1;j<=m;j++){
+          if(text1.charAt(i-1) == text2.charAt(j-1)){
+            dp[i][j]= 1+ dp[i-1][j-1];
+          }
+          else{
+            dp[i][j]= Math.max(dp[i-1][j] , dp[i][j-1]);
+          }
+       }
+       }
+       int lcs= dp[n][m]; 
+       if (n==m) return 2*(n-lcs);
+        return m-lcs + n-lcs;
     }
 }
