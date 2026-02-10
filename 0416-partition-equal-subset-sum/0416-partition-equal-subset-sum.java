@@ -5,12 +5,8 @@ class Solution {
             sum+=x;
          }
          int target=sum/2;
-         if(sum%2!= 0) return false;
+         if(sum%2 != 0) return false;
          else 
-       //  boolean[][] dp= new boolean[nums.length+1][target+1];
-         //for(int[] rows:dp){
-           // Arrays.fill(row,-1);
-         //} 
          return solve(nums.length,target,nums);
     }
     public boolean solve(int n, int target, int[] arr) {
@@ -23,9 +19,9 @@ class Solution {
            if (arr[i - 1] <= t) {
             dp[i][t]= dp[i-1][t] || dp[i-1][t-arr[i-1]];
            }
-            else {
-                    dp[i][t] = dp[i - 1][t];
-                }
+         else {
+            dp[i][t] = dp[i - 1][t];
+            }
         }
       }
       return dp[n][target];
