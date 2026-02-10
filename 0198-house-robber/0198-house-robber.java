@@ -1,6 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length;
+          int n = nums.length;
         int[] dp = new int[n];
         Arrays.fill(dp, -1);
 
@@ -19,4 +19,4 @@ class Solution {
 
         return dp[index] = Math.max(pick, nopick);
     }
-}
+}   
