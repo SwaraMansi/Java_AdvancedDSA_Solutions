@@ -1,34 +1,15 @@
 class Solution {
-    Integer[][] dp;
-
     public int maxProfit(int[] prices) {
-        int n = prices.length;
-        dp = new Integer[n][3];
-        return solve(0, 1, prices);  
-    }
-
-    public int solve(int i, int state, int[] prices) {
-        if (i >= prices.length) return 0;
-
-        if (dp[i][state] != null) return dp[i][state];
-
-        int profit;
-
-        if (state == 1) {
-
-            int buy = -prices[i] + solve(i + 1, 0, prices);  
-            int skip = solve(i + 1, 1, prices);             
-            profit = Math.max(buy, skip);
+      int n=prices.length;
+        int[][] dp= new int[n][3];
+        dp[0][0]= 0;
+        dp[0][1]= -prices[0];
+        dp[0][2]=0;
+        for(int i=1;i<n;i++){
+            dp[i][0]= Math.max(dp[i-1][0] , dp[i-1][2]);
+            dp[i][1]= Math.max(dp[i-1][1] , dp[i-1][0] - prices[i]);
+            dp[i][2]= dp[i-1][1] + prices[i];
         }
-        else if (state == 0) {
-            int sell = prices[i] + solve(i + 1, 2, prices);  
-            int skip = solve(i + 1, 0, prices);         
-            profit = Math.max(sell, skip);
-        }
-        else {
-            profit = solve(i + 1, 1, prices);         
-        }
-
-        return dp[i][state] = profit;
+        return Math.max(dp[n-1][0],dp[n-1][2]);    
     }
 }
