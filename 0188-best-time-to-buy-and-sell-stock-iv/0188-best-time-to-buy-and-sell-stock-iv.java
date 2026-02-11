@@ -1,24 +1,35 @@
 class Solution {
-    Integer[][][] dp;
     public int maxProfit(int k, int[] prices) {
-        int n =prices.length;
-        dp= new Integer[n][k+1][2];
-        return solve(0,k,1,prices);
-    }
-    public int solve(int i,int t,int canBuy, int[] prices){
-        if(i==prices.length || t==0) return 0;
-        if(dp[i][t][canBuy] != null) return dp[i][t][canBuy];
-        int profit;
-        if(canBuy==1){
-            int buy= -prices[i] + solve(i+1,t, 0,prices);
-            int skip= solve(i+1,t, 1,prices);
-            profit= Math.max(buy,skip);
+
+        int n = prices.length;
+        if (n == 0) return 0;
+
+        int[][][] dp = new int[n][k + 1][2];
+
+        for (int j = 0; j <= k; j++) {
+            dp[0][j][0] = 0;
+            dp[0][j][1] = -prices[0];
+        }
+
+        dp[0][0][1] = Integer.MIN_VALUE;
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j <= k; j++) {
+
+                if (j > 0) {
+                    dp[i][j][0] = Math.max(dp[i-1][j][0],
+                                           dp[i-1][j][1] + prices[i]);
+                }
+
+               
+
+                if (j > 0) {
+                    dp[i][j][1] = Math.max(dp[i-1][j][1],
+                                           dp[i-1][j-1][0] - prices[i]);
+                }
             }
-else{
-    int sell= prices[i] + solve(i+1,t-1,1,prices);
-    int skip= solve(i+1,t, 0,prices);
-     profit= Math.max(sell,skip);
-}
-return dp[i][t][canBuy]= profit;
+        }
+
+        return dp[n-1][k][0];
     }
 }
