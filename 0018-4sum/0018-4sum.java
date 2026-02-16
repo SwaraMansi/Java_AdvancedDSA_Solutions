@@ -1,6 +1,6 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-            Arrays.sort(nums);
+        Arrays.sort(nums);
         int n = nums.length;
         List<List<Integer>> result = new ArrayList<>();
 
@@ -14,7 +14,7 @@ class Solution {
                     long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
                     if (sum == target) {
                         result.add(Arrays.asList(
-                            nums[i], nums[j], nums[left], nums[right]
+                        nums[i], nums[j], nums[left], nums[right]
                         ));
                         left++;
                         right--;
