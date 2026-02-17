@@ -612,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
