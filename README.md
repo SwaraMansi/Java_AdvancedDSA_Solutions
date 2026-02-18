@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [4055-longest-balanced-substring-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
