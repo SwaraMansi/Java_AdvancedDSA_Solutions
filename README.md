@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
