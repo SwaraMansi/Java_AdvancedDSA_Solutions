@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2906-construct-product-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2906-construct-product-matrix) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2906-construct-product-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2906-construct-product-matrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [2906-construct-product-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2906-construct-product-matrix) |
 ## Enumeration
 |  |
 | ------- |
