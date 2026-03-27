@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2906-construct-product-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 |  |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [2906-construct-product-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
