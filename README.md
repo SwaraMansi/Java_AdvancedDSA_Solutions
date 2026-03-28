@@ -650,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1683-invalid-tweets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1934-confirmation-rate) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
