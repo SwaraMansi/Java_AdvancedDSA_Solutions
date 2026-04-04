@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0494-target-sum) |
