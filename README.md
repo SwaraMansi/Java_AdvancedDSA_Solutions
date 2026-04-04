@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0120-triangle) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0494-target-sum) |
 ## Linked List
 |  |
