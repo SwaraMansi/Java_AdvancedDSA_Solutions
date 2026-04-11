@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0216-combination-sum-iii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
