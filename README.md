@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2906-construct-product-matrix](https://github.com/SwaraMansi/Java_AdvancedDSA_Solutions/tree/master/2906-construct-product-matrix) |
