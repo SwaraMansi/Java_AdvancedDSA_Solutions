@@ -1,7 +1,7 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        boolean firstRow=0;
-        boolean firstCol=0;
+        boolean firstRow=false;
+        boolean firstCol=false;
         int m= matrix.length;
         int n= matrix[0].length;
         for(int i=0;i<n;i++){
@@ -38,7 +38,7 @@ class Solution {
             for (int j = 1; j < n; j++) {
             if(matrix[i][0]==0 || matrix[0][j]==0){
                 matrix[i][j]=0;
-            }
+            }}
         }
     }
 }
