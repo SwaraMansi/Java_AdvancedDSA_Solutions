@@ -16,13 +16,19 @@ class Solution {
                 break;
             }
         }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
                 if(matrix[i][j]==0){
                     matrix[i][0]=0;
                     matrix[0][j]=0;
                 }
             }
+        }
+        for(int i=1;i<m;i++){
+            for (int j = 1; j < n; j++) {
+            if(matrix[i][0]==0 || matrix[0][j]==0){
+                matrix[i][j]=0;
+            }}
         }
         if(firstRow){
             for(int i=0;i<n;i++){
@@ -33,12 +39,6 @@ class Solution {
             for(int i=0;i<m;i++){
                 matrix[i][0]=0;
             }
-        }
-        for(int i=1;i<m;i++){
-            for (int j = 1; j < n; j++) {
-            if(matrix[i][0]==0 || matrix[0][j]==0){
-                matrix[i][j]=0;
-            }}
         }
     }
 }
